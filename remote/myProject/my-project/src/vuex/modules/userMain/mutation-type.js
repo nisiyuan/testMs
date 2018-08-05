@@ -1,0 +1,5 @@
+
+export const SET_ALL_USER = 'SET_ALL_USER'
+export const CHANGE_CUR_MODEL = 'CHANGE_CUR_MODEL'
+export const CHANGE_ERR_MSG = 'CHANGE_ERR_MSG'
+export const SET_ALL_ACCESS = 'SET_ALL_ACCESS'
